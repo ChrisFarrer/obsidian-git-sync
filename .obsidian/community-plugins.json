@@ -1,8 +1,9 @@
 [
   "table-editor-obsidian",
-  "dataview",
   "calendar",
-  "obsidian-git",
+  "dataview",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-pandoc"
 ]

@@ -4,22 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "adfd5be993688b28",
+        "id": "e550a921a3a03890",
         "type": "tabs",
         "children": [
           {
-            "id": "0b51e29462621ebd",
+            "id": "1d0c083a78e672b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "160f1ce5c64e076f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "4bb9f663fd82068d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Class Lecture Notes.md",
+                "file": "Dataviews/Test Dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b4946f709353547",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files & Resources/ex5_heaps.pdf"
+              }
+            }
+          },
+          {
+            "id": "f4a5cdad4fde9477",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Github_vs_Local_Workflow.md"
+              }
+            }
+          },
+          {
+            "id": "a667e0e8d04908d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub/Git & Version Control/Github_Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28238c5cbc1f8d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -69,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "b7ff23b902bb3781",
@@ -85,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Class Lecture Notes.md",
+                "file": "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Class Lecture Notes.md",
+                "file": "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Class Lecture Notes.md"
+                "file": "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md"
               }
             }
           },
           {
-            "id": "9cc2c3e672ff19a6",
+            "id": "20d57a759230e0ec",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "46743ceef4d6962a",
@@ -156,41 +225,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b51e29462621ebd",
+  "active": "28238c5cbc1f8d79",
   "lastOpenFiles": [
-    "2023-11-16.md",
-    "Templates/Class Lecture Notes.md",
-    "Excalidraw/Drawing 2023-11-16 12.09.06.excalidraw.md",
+    "Hub/Git & Version Control/Github_Basics.md",
+    "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md",
+    "Hub/Languages/HTML and CSS",
     "Dataviews/Test Dataview.md",
-    "Dataviews",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.md",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.pdf",
+    "Files & Resources/ex5_heaps.pdf",
+    "Excalidraw/HeapSort_Exercise_2c.md",
+    "Excalidraw/HeapSort_Exercise_2b.md",
+    "Excalidraw/HeapSort_Exercise_2a.md",
+    "Files & Resources/Git Branching Diagram.png",
+    "Excalidraw/Github_vs_Local_Workflow.md",
+    "Hub/Classes/CSCI 345 - Object Oriented Design/Untitled.md",
+    "Templates/Generic Notes.md",
+    "2023-11-17.md",
+    "Excalidraw/Drawing 2023-11-16 14.02.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-17 20.22.39.excalidraw.md",
+    "Hub/Languages/Java/Exception Handling.md",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-16 Lecture.md",
+    "Templates/Class Lecture Notes.md",
+    "Templates/Default Notes.md",
+    "Excalidraw/Template_Graph_FourQuad.png",
     "Excalidraw/Hello World!.md",
+    "Excalidraw/Template_Graph_FourQuad.md",
+    "empty-graph.png",
+    "2023-11-16.md",
+    "Dataviews",
     "Excalidraw/Drawing 2023-11-16 11.14.46.excalidraw.md",
-    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-16  Lecture.md",
     "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Class Resources",
-    "Untitled.md",
     "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-16.md",
     "Excalidraw",
     "Hub/Languages/Python",
     "Hub/Languages/Javascript",
     "Hub/Languages/Java",
-    "Hub/Classes/CSCI 345 - Object Oriented Design",
-    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1",
-    "Hub/Classes/CSCI 330 - Database Systems",
-    "Hub/Server Management"
+    "Hub/Classes/CSCI 345 - Object Oriented Design"
   ]
 }

@@ -1,16 +1,14 @@
 ---
-Title: <% tp.date.now("YYYY-MM-DD") %> Lecture
+Title: <% tp.file.title %>
 Source: 
 Date: <% tp.date.now("YYYY-MM-DD") %>
 Created: <% tp.file.creation_date() %>
 Modified: <% tp.file.last_modified_date()%>
-Class: <% tp.file.folder() %>
-tags: []
+tags:
 ---
-<% tp.file.rename(tp.date.now("YYYY-MM-DD") + " Lecture") %>
-# Lecture Notes
+# Title
 
-This is the topic of today's lecture. Before class, the professor mentioned this upcoming quiz. Other important lecture overview or information goes here.
+
 
 ## Topic 1
 
@@ -32,7 +30,7 @@ _Insert Excalidraw Graphics Here_
 
 ## Resources & References
 
-Helpful tools to use during lecture 
+Helpful tools 
 ### LaTex References
 
 - Summations: $\sum_{n=1} ^{\infty} a_i x^i$

@@ -1,16 +1,16 @@
 ---
-Title: <% tp.date.now("YYYY-MM-DD") %> Lecture
-Source: 
-Date: <% tp.date.now("YYYY-MM-DD") %>
-Created: <% tp.file.creation_date() %>
-Modified: <% tp.file.last_modified_date()%>
-Class: <% tp.file.folder() %>
-tags: []
+Title: Exception Handling
+Source: https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+Date: 2023-11-17
+Created: 2023-11-17 11:14
+Modified: 2023-11-17 11:14
+tags:
 ---
-<% tp.file.rename(tp.date.now("YYYY-MM-DD") + " Lecture") %>
-# Lecture Notes
+# Exception Handling
 
-This is the topic of today's lecture. Before class, the professor mentioned this upcoming quiz. Other important lecture overview or information goes here.
+Definition: The process of responding to unwanted or unexpected events when a computer program runs
+
+
 
 ## Topic 1
 
@@ -32,7 +32,7 @@ _Insert Excalidraw Graphics Here_
 
 ## Resources & References
 
-Helpful tools to use during lecture 
+Helpful tools 
 ### LaTex References
 
 - Summations: $\sum_{n=1} ^{\infty} a_i x^i$
