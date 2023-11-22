@@ -143,8 +143,6 @@ After adding a title and description about what you changed, you can submit your
 If your pull request is approved and your branch is merged to the base branch, typically you would delete the feature branch and switch back to the base or main branch.
 
 
-
-
 ### Merge Conflicts
 
 When multiple people are working on the same code, sometimes merging branches can cause conflicts with the base branch. This can occur by either by using the "checkout" command and switching branches before committing changes, or by manually merging to the main branch.
