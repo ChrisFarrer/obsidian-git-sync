@@ -1,0 +1,8 @@
+body {
+  --h1-weight: var(--font-normal);
+  --h2-weight: var(--font-normal);
+  --h3-weight: var(--font-normal);
+  --h4-weight: var(--font-normal);
+  --h5-weight: var(--font-normal);
+  --h6-weight: var(--font-normal);
+}

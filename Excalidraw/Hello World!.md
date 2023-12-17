@@ -56,31 +56,33 @@ Hello World! ^g96x4NMX
 			"baseline": 32
 		},
 		{
-			"id": "sVclVSEY",
-			"type": "embeddable",
-			"x": -214.39716859297369,
-			"y": -1265.2930955762995,
-			"width": 500,
-			"height": 500,
+			"id": "5FXGnPFS8bcv1Xb_bFVoN",
+			"type": "ellipse",
+			"x": -619.3598556518562,
+			"y": -819.442243303572,
+			"width": 49.974609375,
+			"height": 37.029296875,
 			"angle": 0,
-			"strokeColor": "transparent",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
+			"fillStyle": "solid",
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"roundness": null,
-			"seed": 53578,
-			"version": 5,
-			"versionNonce": 1106061436,
-			"updated": 1700162430363,
-			"isDeleted": true,
 			"groupIds": [],
-			"boundElements": [],
-			"link": "[[Test Dataview]]",
-			"locked": false,
-			"validated": true
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1386330109,
+			"version": 72,
+			"versionNonce": 862015795,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1700709763597,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -98,10 +100,10 @@ Hello World! ^g96x4NMX
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1051.1727367747926,
-		"scrollY": 1055.3898640422083,
+		"scrollX": 778.7895431518562,
+		"scrollY": 918.039899553572,
 		"zoom": {
-			"value": 1.099999999999999
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

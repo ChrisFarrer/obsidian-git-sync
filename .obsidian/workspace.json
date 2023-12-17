@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47a96ac186d9f744",
+        "id": "efe0f53c77bc46db",
         "type": "tabs",
         "children": [
           {
-            "id": "931707f931801936",
+            "id": "37bd1ce67b95176a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hub/Git & Version Control/Github_Basics.md",
-                "mode": "source",
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hub/Git & Version Control/Github_Basics.md",
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hub/Git & Version Control/Github_Basics.md",
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hub/Git & Version Control/Github_Basics.md"
+                "file": "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.md"
               }
             }
           },
@@ -138,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "46743ceef4d6962a",
@@ -156,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,46 +174,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "931707f931801936",
+  "active": "37bd1ce67b95176a",
   "lastOpenFiles": [
-    "Hub/Languages/HTML and CSS/HTML-CSS-Basics.md",
-    "Files & Resources/Git Branching Diagram.png",
-    "Files & Resources/ex5_heaps.pdf",
-    "Hub/Languages/HTML and CSS/CSS-Box-Model.md",
-    "Hub/Languages/HTML and CSS/Chrome-DevTools-Basics.md",
-    "Hub/Languages/HTML and CSS/Hovers-Transitions-Shadows.md",
-    "Hub/Git & Version Control/Github_Basics.md",
-    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-21 Lecture.md",
-    "Files & Resources/box-model.png",
-    "Hub/Languages/HTML and CSS/HTML_CSS_Basics.md",
-    "Files & Resources/CSS-Box-Model-Graphic.avif",
-    "[[HTML-CSS-Basics]].md",
-    "Templates/Class Lecture Notes.md",
+    "Excalidraw/Homework5_Heap_2.md",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.md",
+    "Excalidraw/Homework5_Heap_1_2.md",
+    "Excalidraw/Drawing 2023-12-11 22.40.34.excalidraw.md",
+    "Excalidraw/Homework5_Heap_1.md",
     "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.pdf",
-    "Excalidraw/Github_vs_Local_Workflow.md",
-    "Dataviews/Test Dataview.md",
     "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Heapsort Exercises Worksheet.md",
-    "Hub/Languages/HTML and CSS",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 4.md",
     "Excalidraw/HeapSort_Exercise_2c.md",
     "Excalidraw/HeapSort_Exercise_2b.md",
     "Excalidraw/HeapSort_Exercise_2a.md",
-    "Hub/Classes/CSCI 345 - Object Oriented Design/Untitled.md",
+    "Excalidraw/Drawing 2023-12-03 23.04.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-11 21.38.17.excalidraw.md",
+    "Hub/Classes/CSCI 330 - Database Systems/Final Project Documentation.md",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 5.pdf",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-21 Lecture.md",
+    "Excalidraw/Homework5_BST.md",
+    "Excalidraw/Homework5_BST_Part5.md",
+    "Un-Bold_Headers.css",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.01.24 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/2023-12-04 Lecture.md",
+    "Excalidraw/E-R Diagram Quiz Correction.md",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.03.00 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.03.15 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.05.10 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.06.40 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.06.48 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.06.55 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.07.26 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.07.33 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots/Screenshot 2023-12-08 at 2.07.41 PM.png",
+    "Hub/Classes/CSCI 330 - Database Systems/Project Screenshots",
     "Templates/Generic Notes.md",
-    "2023-11-17.md",
-    "Excalidraw/Drawing 2023-11-16 14.02.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-17 20.22.39.excalidraw.md",
-    "Hub/Languages/Java/Exception Handling.md",
-    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/2023-11-16 Lecture.md",
-    "Templates/Default Notes.md",
-    "Excalidraw/Template_Graph_FourQuad.png",
-    "Excalidraw/Hello World!.md",
-    "Excalidraw/Template_Graph_FourQuad.md",
-    "empty-graph.png",
+    "Templates/Class Lecture Notes.md",
+    "Excalidraw/Final E-R Model.md",
+    "Hub/Classes/CSCI 330 - Database Systems/E-R Model Homework.md",
+    "Excalidraw/Github_vs_Local_Workflow.md",
+    "Hub/Languages/HTML and CSS/HTML-CSS-Basics.md",
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Homework 4.pdf",
+    "Hub/Languages/HTML and CSS/Text-Styles.md",
+    "Dataviews/Test Dataview.md",
+    "Files & Resources/ex5_heaps.pdf",
+    "Files & Resources/CSS-Box-Model-Graphic.avif",
+    "Hub/Languages/HTML and CSS",
     "Dataviews",
-    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Class Resources",
-    "Excalidraw",
-    "Hub/Languages/Python",
-    "Hub/Languages/Javascript",
-    "Hub/Languages/Java"
+    "Hub/Classes/CSCI 305 - Analysis of Algorithms 1/Class Resources"
   ]
 }

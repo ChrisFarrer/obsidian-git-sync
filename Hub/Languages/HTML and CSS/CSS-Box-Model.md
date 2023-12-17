@@ -19,6 +19,8 @@ The CSS Box Model refers to the box that warps around every HTML element. It con
 margin-right: 8px
 ```
 
+We also touched on this topic in [[HTML-CSS-Basics]]
+
 ### Border
 
 - Determines the size, shape, and style of the border between our element and the margin. 
